@@ -1,0 +1,47 @@
+#Welcome API
+
+###
+GET http://127.0.0.1:8000/welcome/
+Accept: application/json
+
+
+#Organization API
+
+###
+GET http://127.0.0.1:8000/organization/
+Accept: application/json
+
+
+#Event Information API
+
+###
+GET http://127.0.0.1:8000/event-info/
+Accept: application/json
+
+
+#Organizer API
+
+###
+GET http://127.0.0.1:8000/organizer/
+Accept: application/json
+
+
+#All Events API
+
+###
+GET http://127.0.0.1:8000/all-events/
+Accept: application/json
+
+
+#Participant API
+
+###
+GET http://127.0.0.1:8000/participant/
+Accept: application/json
+
+
+#Venue API
+
+###
+GET http://127.0.0.1:8000/venue/
+Accept: application/json
